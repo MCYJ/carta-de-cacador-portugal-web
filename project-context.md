@@ -12,3 +12,11 @@
 - Add active official App Store badge, actual public Store screenshots, FAQ, structured breadcrumbs and Article identities/citations.
 - Preserve original editorial dates for unchanged guides; update only changed content dates.
 - Keep marketplace frame 194×75, responsive keep-all typography, no tracking or untrusted external code.
+
+## Verification completed
+
+- Local build and check pass: 18 indexable routes, ten Article/Breadcrumb pairs and custom noindex 404.
+- Actual public HTML and assets matched the generated build in the central 34-site audit.
+- Desktop 1440px and mobile 390px/320px browser checks found no horizontal overflow or broken loaded images; the Store frame is 194×75.
+- Removed stale review state, 120-question count, fixed fee claims and incompatible subscription/entitlement assumptions; preserved all established guide URLs.
+- Final exact-HEAD workflow and HTTP evidence: app-marketing-pages-control/outputs/seo-production-20261023.json.
